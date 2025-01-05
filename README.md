@@ -1,4 +1,4 @@
-# gfgpotd-count-pairs-whose-sum-is-less-than-target
+
 class Solution:
     #Complete the below function
     def countPairs(self, arr, target):
